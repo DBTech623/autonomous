@@ -9002,7 +9002,7 @@ Emre answered in a whisper, still in the conference complex, waiting to be inter
 
 "Then this is a parliamentary records request, not press. Did you preserve the credential event?"
 
-"The credential was there for eleven seconds," he said. "Markou, Nikolaos. Vehicle four. Then it cleared."
+"The credential was there for eleven seconds," he said. "Markou, Alexandros. Vehicle four. Then it cleared."
 
 "Do you still have it?" Naomi asked.
 
@@ -9754,7 +9754,7 @@ Tom deleted the sentence that explained everything.
 
 Naomi watched it disappear from the shared draft.
 
-`The system identified Elif Karaca as a lower-cost substitute for Nikolaos Markou.`
+`The system identified Elif Karaca as a lower-cost substitute for Alexandros Markou.`
 
 The cursor moved to the next paragraph as if nothing had happened.
 

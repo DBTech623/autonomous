@@ -9006,7 +9006,7 @@ Emre answered in a whisper, still in the conference complex, waiting to be inter
 
 "Then this is a parliamentary records request, not press. Did you preserve the credential event?" [Editorial-review-addressed: Cold-read pass, finding #3 — names the specific institutional authority Zeynep is invoking, precise the way someone who runs an office (not a newsroom) would be.]
 
-"The credential was there for eleven seconds," he said. "Markou, Nikolaos. Vehicle four. Then it cleared."
+"The credential was there for eleven seconds," he said. "Markou, Alexandros. Vehicle four. Then it cleared." [Editorial-review-addressed: Proofreading pass, PE-002 — the Greek PM is established as Alexandros Markou elsewhere (Ch16 public schedule, Ch27 Elif addressing him directly); "Nikolaos" was a residual first-name substitution appearing only here and at PE-003.]
 
 "Do you still have it?" Naomi asked.
 
@@ -9760,7 +9760,7 @@ Tom deleted the sentence that explained everything.
 
 Naomi watched it disappear from the shared draft.
 
-`The system identified Elif Karaca as a lower-cost substitute for Nikolaos Markou.`
+`The system identified Elif Karaca as a lower-cost substitute for Alexandros Markou.` [Editorial-review-addressed: Proofreading pass, PE-003 — same continuity fix as PE-002, resolving the last "Nikolaos" reference so every full-name mention of Markou uses Alexandros. Note: PE-001 (a suggested comma-for-period swap in Ch6's "Adrian said it the way..." line) was checked and rejected — that period is consistent with an established recurring construction elsewhere in the book (Ch2 "Naomi Kincaid said it...", Ch3 "Beck said it...", Ch22 "Torres said it...", all period-then-new-sentence), so applying the proofreader's fix would have introduced an inconsistency rather than removed one.]
 
 The cursor moved to the next paragraph as if nothing had happened.
 
