@@ -314,7 +314,7 @@ The delay passed.
 
 General counsel removed his glasses. "You didn't say where."
 
-"It is the answer supported by the contract."
+"The contract doesn't give me a better one."
 
 Adrian opened the order. He had read it before signing and noticed the ambiguity. At the time, ambiguity had been useful. Reddick could act without sending every detail upward. Adrian could demand results without knowing the route.
 

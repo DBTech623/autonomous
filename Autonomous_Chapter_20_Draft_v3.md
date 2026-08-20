@@ -24,7 +24,7 @@ Malcolm followed him into a narrow entryway. A ceramic bowl sat on a table besid
 
 "It doesn't connect to anything."
 
-"Then you can survive an hour without it."
+"Then it can sit there for an hour."
 
 Malcolm removed the watch and placed it beside the batteries.
 

@@ -272,7 +272,7 @@ Malcolm put the folded sheet in the inside pocket of his jacket.
 
 "That may slow the request."
 
-"Government has survived email."
+"The government copes with worse than a delay."
 
 "Barely."
 

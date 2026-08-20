@@ -2,13 +2,13 @@
 
 ## Contain the Language
 
-Leadership had convened on four hours' notice, in a conference room that required two badges at the door and a wall display already running when Malcolm walked in.
+Leadership had convened on four hours' notice, in a conference room that required two badges at the door and screens already lit at every seat when Malcolm walked in.
 
 Every use of `AUTONOMOUS` had been removed.
 
 The leadership conference room had no clock, no whiteboard, nothing anyone could later claim to have misread. A single air handler kept the temperature exactly where policy specified. Even the chairs matched. The room kept no record of who usually sat where.
 
-Malcolm read the revised guidance once on the wall display and again on the printed copy in front of him. The deletion was thorough. `Autonomous decision layer` had become `coordinated process`. `Autonomous intervention` had become `anticipatory response`. One paragraph had been reworked so completely that it no longer contained a subject.
+Malcolm read the revised guidance once on his sunk screen and again on the printed copy in front of him. The deletion was thorough. `Autonomous decision layer` had become `coordinated process`. `Autonomous intervention` had become `anticipatory response`. One paragraph had been reworked so completely that it no longer contained a subject.
 
 Leadership had replaced the team's annotated timeline with a clean version. Leila's latency corrections were there. Miles's market notes were there. The names written in the margins were gone.
 

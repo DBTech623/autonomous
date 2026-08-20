@@ -82,9 +82,9 @@ the rot go, and can anything actually be done about it."
 
 ------------------------------------------------------------------------
 
-## PROTAGONIST --- MALCOLM "MACE" CARTER
+## PROTAGONIST --- MALCOLM CARTER
 
-Age: 38\
+Age: 43 (locked 2026-08-13, corrected from 38)\
 Background: Howard University → MIT Cybersecurity Fellowship → NSA Cyber
 Ops → Joint Special Activities Task Unit\
 Specialty: AI stabilization architecture, predictive conflict modeling
@@ -122,11 +122,14 @@ Financial lobbying trails - Algorithmic suppression
 
 ### Core Belief
 
-Exposure corrects power.
+Exposure matters, but only if it's built to survive suppression.
+*(Revised 2026-08-13 — see `Autonomous_Master_Development_Document(1).md`
+for the full note on why this replaced "Exposure corrects power.")*
 
 ### Series Arc
 
-Book I: Investigator\
+Book I: Investigator; expands proof-discipline into resilient,
+distributed evidence and shared agency outside the newsroom\
 Book II: Target\
 Book III: Catalyst
 

@@ -2,7 +2,7 @@
 
 ## Canon History and Continuity Appendix
 
-**Version:** 2026-07-27  
+**Version:** 2026-08-01  
 **Status:** Canon for development
 
 ## 1. Core World Rule
@@ -123,6 +123,14 @@ Vale removed the mandatory review requirement while rebuilding Aurora. Polaris n
 Malcolm was Aurora's lead constraint-layer architect. His work governed how the system balanced competing priorities and prevented a successful correction in one domain from causing unacceptable harm in another.
 
 Aurora made his reputation. Its failure destroyed it.
+
+### Before Aurora: The Research NSA Absorbed
+
+Malcolm did not begin as a government employee. He completed a postdoctoral research program in AI-driven constraint modeling that produced results promising enough that he began seriously planning to leave academia and build a company around it — his own version of the decision Adrian would later make with different research and a different outcome.
+
+NSA identified the work before Malcolm could commercialize it. Rather than simply recruiting him, the agency absorbed the research itself: classified it, closed off the publication and collaboration channels that had made it visible to people like Adrian in the first place, and made Malcolm an offer that was less a job posting than a foreclosure of the alternative. He was strongly persuaded, more than freely chosen, to keep developing the work inside government channels rather than found a company around it. He accepted. Aurora's constraint-layer design is a direct continuation of that absorbed research, not a separate project he was later hired to build.
+
+This is the origin of the fragment of Malcolm's work that reached Adrian as unattributed "classified-adjacent literature" before the trail went cold (§6) — Adrian read the promising early results; he never saw what happened to the researcher. It is also the origin of the private counterfactual Malcolm carries into Vale's demonstration floor: Adrian's company is, almost exactly, the company Malcolm might have built if NSA had not gotten there first.
 
 ### Why Aurora Threatened the Constellation
 
@@ -462,8 +470,9 @@ Exposure alone cannot correct power when every institution holds only one piece 
 
 ## 13. Canon Timeline
 
+- **Eight to seven years before Book I:** Malcolm completes a postdoctoral research program in AI-driven constraint modeling and begins planning to commercialize it independently. NSA identifies the work, absorbs and classifies it, and recruits him before he can found a company around it.
 - **Seven years before Book I:** Adrian founds Vale Dynamics on his own DARPA-era predictive-modeling research.
-- **Five years before Book I:** Aurora enters advanced testing. Malcolm leads its constraint-layer design. Vale Dynamics' platform has plateaued; a third funding round is priced on a breakthrough that hasn't happened.
+- **Five years before Book I:** Aurora enters advanced testing. Malcolm leads its constraint-layer design, continuing the absorbed postdoctoral research. Vale Dynamics' platform has plateaued; a third funding round is priced on a breakthrough that hasn't happened.
 - **Four and a half years before Book I:** Varga approaches Adrian with capital and access to research that would solve his platform's constraint problem. Adrian does not ask where it came from and initially believes he is buying inert research rather than access to a live classified system.
 - **Four years before Book I:** Varga authorizes the extraction operation. Vale's group removes Aurora's research and compromises its safeguards. Adrian specifies what he wants extracted; he understands only during this period that the acquisition requires compromising an active system's safeguards before a live deployment.
 - **Four years before Book I:** Aurora deploys during the Moldovan border crisis. The infrastructure cascade kills seventeen civilians and injures several hundred.
@@ -503,6 +512,8 @@ Exposure alone cannot correct power when every institution holds only one piece 
 - Malcolm does not know Aurora was sabotaged at the beginning of Book I.
 - Okafor knows evidence exists but does not possess the evidence itself.
 - Malcolm designed Aurora's Distributed Constraint Review Protocol to expose irreconcilable tradeoffs to every authority responsible for the outcome.
+- Before Aurora, Malcolm was a postdoctoral AI researcher planning to commercialize his own constraint-modeling research independently. NSA absorbed and classified that research before he could found a company, and recruited him under pressure rather than free choice. Aurora's constraint-layer design continues that absorbed work; it is not a separate project he was hired into afterward. Adrian's pre-Varga awareness of "somebody in government research" who had solved his platform's constraint problem (§6) refers to the tail end of this same research, before it went dark.
+- Postdoctoral research requires a doctorate: Malcolm holds a PhD and is technically Dr. Carter. Like Dr. Samuel Okafor, he is addressed informally throughout Book I — first or last name, no title — matching how this world's institutions actually talk. The one deliberate exception is Adrian, at their first in-person meeting on the Vale demonstration floor (Ch6): he greets Malcolm as "Dr. Carter," a title Malcolm never gets anywhere else in the book. It reads as pointed rather than respectful — Adrian knows Malcolm doesn't use it, has gone looking for it anyway, and is marking the power gap between the man who built a company on the back of this research and the man who was absorbed into a classified program because of it.
 - Vale removed mandatory human review, but Polaris retains the protocol's constraint grammar.
 - In Book I's climax, Malcolm distributes the protocol, Polaris decision snapshot, and Vale dependency map beyond the United States compartment. Naomi does not publicly reveal Aurora's classified history.
 - Okafor is retired outside Columbia, Maryland. His relationship with Malcolm has been strained since Malcolm rejected his doubts about the Aurora investigation.

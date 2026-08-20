@@ -11,7 +11,9 @@ The source survives the containment operation but remains missing through the en
 
 ## Source Background
 
-The source is **Daniel Cho**, a 41-year-old former StratCore integration manager who worked across acquired companies. He now works as an independent infrastructure-compliance consultant.
+The source is **Daniel Cho**, a 51-year-old Korean-American former StratCore integration manager who worked across acquired companies. He now works as an independent infrastructure-compliance consultant.
+
+*(Age/heritage corrected 2026-08-13 to match the reimagined manuscript's Ch23 intake scene, which superseded this file's original 41/unspecified-heritage figure.)*
 
 He was not a senior Polaris architect and did not know the complete purpose or authority structure of the system. His work gave him access to:
 

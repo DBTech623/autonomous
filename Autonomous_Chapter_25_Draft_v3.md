@@ -318,7 +318,7 @@ Malcolm pictured the isolated diagnostic room at Vale, the console old enough to
 
 "No unauthorized action."
 
-"I asked about approval. Not authorization."
+"Approval isn't authorization."
 
 "Send the dependency map."
 

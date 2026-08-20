@@ -100,7 +100,7 @@ Cate looked at the tight binding. "I would not leave the configuration discrepan
 
 "I asked if you'd repeat it. Not what you'd fix."
 
-"It is the answer I have."
+"I don't have a cleaner one."
 
 She opened the folder again and removed a single page.
 

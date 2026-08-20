@@ -1964,7 +1964,9 @@ Shah stepped back half a pace. Torres straightened.
 
 Adrian shook Torres's hand, greeted Leila by title, and turned to Malcolm last, the way a man saves the call he actually wants to take.
 
-"Carter. Constraint-layer architecture." Not a question.
+"Dr. Carter. Constraint-layer architecture." Not a question.
+
+Nobody had called him that in four years. Malcolm noted, distantly, that Adrian would have had to go looking for it.
 
 "That was a long time ago."
 
@@ -2294,7 +2296,7 @@ Malcolm stepped back from the counter. [RN: There was not mention that he was st
 
 "Which is why it has cameras."
 
-"You contacted a reporter. You can survive being seen in public."
+"You contacted a reporter. Being seen in public isn't the risk here."
 
 "One o'clock."
 
@@ -3762,7 +3764,7 @@ Malcolm put the folded sheet in the inside pocket of his jacket. [RN: His inside
 
 "That may slow the request."
 
-"Government has survived email."
+"The government copes with worse than a delay."
 
 "Barely."
 
@@ -3816,11 +3818,11 @@ Naomi's mouth tightened at the phrase.
 
 ## Contain the Language
 
-Leadership had convened on four hours' notice, in a conference room that required two badges at the door and a wall display already running when Malcolm walked in. [RN: Let's set the scene here. This is another instance of just plopping down in the middle of a new scene. We do that a lot here.] [RN-addressed: added an opening line before the cold-open, establishing the room and the urgency without losing the punch of "Every use of AUTONOMOUS had been removed."]
+Leadership had convened on four hours' notice, in a conference room that required two badges at the door and screens already lit at every seat when Malcolm walked in. [RN: Let's set the scene here. This is another instance of just plopping down in the middle of a new scene. We do that a lot here.] [RN-addressed: added an opening line before the cold-open, establishing the room and the urgency without losing the punch of "Every use of AUTONOMOUS had been removed."]
 
 Every use of `AUTONOMOUS` had been removed.
 
-Malcolm read the revised guidance once on the wall display and again on the printed copy in front of him. The deletion was thorough. `Autonomous decision layer` had become `coordinated process`. `Autonomous intervention` had become `anticipatory response`. One paragraph had been reworked so completely that it no longer contained a subject.
+Malcolm read the revised guidance once on his sunk screen and again on the printed copy in front of him. The deletion was thorough. `Autonomous decision layer` had become `coordinated process`. `Autonomous intervention` had become `anticipatory response`. One paragraph had been reworked so completely that it no longer contained a subject.
 
 Leadership had replaced the team's annotated timeline with a clean version. Leila's latency corrections were there. Miles's market notes were there. The names written in the margins were gone.
 
@@ -6562,7 +6564,7 @@ Malcolm followed him into a narrow entryway. A ceramic bowl sat on a table besid
 
 "It doesn't connect to anything."
 
-"Then you can survive an hour without it."
+"Then it can sit there for an hour."
 
 Malcolm removed the watch and placed it beside the batteries.
 
@@ -7760,7 +7762,7 @@ Malcolm pointed to the archive card. "Was the deployed configuration the one I a
 
 Cate did not touch the telephone. "Your access is suspended pending review."
 
-"I asked about the configuration. Not my status."
+"That wasn't the question."
 
 "It is the action I am required to take."
 
@@ -8680,7 +8682,7 @@ Malcolm pictured the isolated diagnostic room at Vale, the console old enough to
 
 "No unauthorized action."
 
-"I asked about approval. Not authorization."
+"Approval isn't authorization."
 
 "Send the dependency map."
 
@@ -11034,7 +11036,7 @@ The delay passed.
 
 General counsel removed his glasses. "You didn't say where."
 
-"It is the answer supported by the contract."
+"The contract doesn't give me a better one."
 
 Adrian opened the order. He had read it before signing and noticed the ambiguity. At the time, ambiguity had been useful. Reddick could act without sending every detail upward. Adrian could demand results without knowing the route.
 
@@ -11218,7 +11220,7 @@ Cate looked at the tight binding. "I would not leave the configuration discrepan
 
 "I asked if you'd repeat it. Not what you'd fix."
 
-"It is the answer I have."
+"I don't have a cleaner one."
 
 She opened the folder again and removed a single page.
 

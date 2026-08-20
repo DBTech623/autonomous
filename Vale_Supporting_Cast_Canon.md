@@ -1,7 +1,7 @@
 # Vale Supporting Cast Canon
 
 **Status:** Book I canon  
-**Last updated:** 2026-07-24
+**Last updated:** 2026-08-08
 
 ## Dr. Elara Zhou
 
@@ -28,9 +28,14 @@ She has read Malcolm's available published work. She admires it and disagrees wi
 - She is unaware of Polaris's ghost-authorization behavior during Book I.
 - She is not a romantic interest for any point-of-view character; her relationship to Adrian is exclusively intellectual and professional.
 
+**Nationality:** Zhou is a Taiwanese national, not a US citizen — a fact given real on-page presence for the first time in Book I (see the reimagined manuscript's Ch6 conference-room scene and her subsequent scenes with Adrian) but not yet exploited by the plot. Her role gives her deep technical control over the most secretive project at a company doing work adjacent to US government infrastructure, while her visa/clearance status is a lever nobody has pulled yet — on her, or by her.
+
+> **[Open: Covert Varga/Zhou channel — Book II]** — Retroactive reframing under consideration: the Constellation, through Varga, may have worked directly and covertly with Zhou to push Polaris beyond Vale's own specifications, bypassing Adrian entirely. This would recontextualize Zhou's Book I fascination with Polaris's "unexpected" evolution — some of what reads as emergent behavior she marvels at (see the Ch19 and Ch26 Adrian/Zhou scenes) might not be emergent at all; she might be watching something she helped build on purpose. Resolved (2026-08-08): Zhou is unwitting in the same sense as Voss, Reddick, Arslan, and Tunalı — a pawn in her own chain, not a knowing conspirator (see `Naomi_Missing_Source_Canon.md` and `Istanbul_Conference_Canon.md` for the parallel structure). Her motive is the technology itself: a genuine, thrilling opportunity to push what the system can do further than anyone else would let her, not money, ideology, or loyalty to Varga. She is naive, or willfully unwilling to look, at what the Constellation and Varga actually intend to use that capability for — the same selective not-asking she already applies to the extracted research's origin (see her existing entry above: "she is not naive; she has simply decided the question is not hers to answer"). This directly supersedes the existing guardrail above stating Zhou "did not participate in or know about the Moldova sabotage" only insofar as it opens a *separate, later* channel — it does not currently extend to Moldova itself, which predates her StratCore involvement. Not developed or dramatized in Book I; her Book I fascination with Polaris's evolution (see the Ch19 and Ch26 Adrian/Zhou scenes) is written as genuine wonder, consistent with this resolution — she isn't performing surprise, she's actually naive to the darker use.
+
 ## Daniel Cho
 
-**Age:** 41  
+**Age:** 51 *(corrected 2026-08-13 from 41, to match the reimagined manuscript)*
+**Heritage:** Korean-American
 **Book I role:** Naomi's missing source  
 **Former position:** StratCore systems integration manager  
 **Current position:** Independent infrastructure-compliance consultant

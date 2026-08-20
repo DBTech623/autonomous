@@ -12,8 +12,8 @@ Visual & Operational Presence
 4
 Core Identity
 
-Name: Malcolm “Mace” Carter
-Age: 38
+Name: Malcolm Carter (nickname "Mace" deprecated 2026-08-13 — never developed in the reimagined manuscript; canon decision was to drop it rather than seed it)
+Age: 43 (locked 2026-08-13, corrected from 38)
 Hometown: Prince George’s County, Maryland
 Education: Howard University (Computer Engineering) → MIT (Cybersecurity Fellowship)
 Agency Affiliation: NSA Cyber Operations (former) → Joint Special Activities Task Unit (blended CIA/DoD cyber-direct action)

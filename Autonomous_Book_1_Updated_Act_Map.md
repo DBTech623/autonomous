@@ -3,7 +3,7 @@
 ## Updated Book I Act Map
 
 **Version:** 2026-07-24  
-**Status:** Revised canon structure with named open decisions
+**Status:** REFERENCE — discovery order, POV discipline, and dramatic-question/answer framing below remain canon. Chapter numbers throughout this document are stale: this map was built around a 32-chapter structure; the reimagined reading manuscript now runs 34 chapters. Treat every chapter number below as approximate — the reimagined manuscript governs actual chapter boundaries and numbering. (Flagged 2026-08-13 per the developmental editorial review; not renumbered chapter-by-chapter here since the discovery order itself did not change, only where boundaries fall.)
 
 ## Story Spine
 
@@ -15,13 +15,13 @@
 
 **Naomi's surface want:** Prove that Vale-backed infrastructure is shaping public events and information distribution.
 
-**Naomi's internal need:** Learn that exposure does not correct power by itself. Truth needs access, timing, and people willing to act on it.
+**Naomi's internal need:** Expand her proof-discipline (source protection, replication, legal limits) into resilient, distributed evidence and shared agency — proof built to survive suppression rather than assumed to win the moment it publishes. *(Revised 2026-08-13 per the developmental editorial review — the original "learn that exposure does not correct power by itself" framed this as correcting a naive belief the manuscript never actually shows her holding; she's professionally sophisticated about proof almost immediately. Same trajectory, more accurate starting point.)*
 
 **Book I dramatic question:** Can Malcolm and Naomi prove that someone is governing through infrastructure before the next successful correction removes their ability to investigate?
 
 **Book I answer:** They prove that the corrections are coordinated, predictive, and derived from Aurora. They expose Vale's infrastructure role but do not uncover the Constellation or the full reach of Polaris.
 
-**Book I ending state:** Vale loses plausible deniability but survives. Cate's cover-up begins to crack. Malcolm learns his failure may have been manufactured. Naomi becomes a modeled target. The name Polaris appears as the deeper system behind the events.
+**Book I ending state:** Vale loses plausible deniability but survives. Cate's cover-up begins to crack. Malcolm learns his failure may have been manufactured. Naomi becomes a modeled target. Project Polaris is publicly disclosed and Naomi's investigation is published, though upstream authority above Adrian remains unresolved. *(Corrected 2026-08-13 per the developmental editorial review — previously understated the ending as Polaris merely "appearing" as a deeper system; the reimagined manuscript now publicly names and discloses it.)*
 
 ## Structural Shape
 

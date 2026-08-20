@@ -31,9 +31,14 @@ That is the horror.
 # II. TRILOGY OVERVIEW
 
 BOOK I --- AUTONOMOUS - Patterned stabilization events detected. -
-Corporate infrastructure smoothing revealed. - Polaris name seeded as
-deeper layer. - Malcolm realizes stabilization is pre-authorized and
-predictive.
+Corporate infrastructure smoothing revealed. - Project Polaris publicly
+named and disclosed; Naomi's investigation publishes evidence of
+coordinated integration and concealment. Upstream authority above Adrian
+remains unresolved, preserving the Constellation as a sequel thread.
+(Corrected 2026-08-13 — this line previously said "Polaris name seeded
+as deeper layer," which understated what the reimagined manuscript's
+ending now reveals.) - Malcolm realizes stabilization is pre-authorized
+and predictive.
 
 BOOK II --- SOVEREIGN CODE - Distributed governance modeling
 escalates. - Naomi targeted algorithmically. - Ghost directives
@@ -46,9 +51,10 @@ survives but recalibrates toward adaptive variance.
 
 ============================================
 
-# III. PROTAGONIST --- MALCOLM "MACE" CARTER
+# III. PROTAGONIST --- MALCOLM CARTER
 
-Age: 38\
+Age: 43 (locked 2026-08-13, corrected from 38 to match the reimagined
+manuscript's physical-description work)\
 Education: Howard University → MIT Cybersecurity Fellowship\
 Background: NSA Cyber Operations → Joint Special Activities Task Unit\
 Expertise: AI stabilization systems, predictive conflict modeling, cyber
@@ -77,9 +83,21 @@ Algorithmic suppression
 Traits: - Precise - Ethically driven - Calm under pressure - Technically
 literate
 
-Core Belief: Exposure corrects power.
+Core Belief: Exposure matters, but only if it's built to survive
+suppression. *(Revised 2026-08-13 per the developmental editorial
+review — previously "Exposure corrects power," framed as a naive belief
+Book I disproves. The manuscript instead shows her starting from working
+proof-discipline — source protection, replication, legal limits — and
+expanding it toward distributed evidence and shared agency under real
+suppression pressure. It's a refinement of an existing method, not a
+correction of a naive one; her arc description should match what's
+actually on the page rather than an older assumption the manuscript
+outgrew.)*
 
-Arc: Book I --- Investigator\
+Arc: Book I --- Investigator; expands proof-discipline into resilient,
+distributed evidence and shared agency outside the newsroom, tested
+directly by real-time suppression (recommendation-system throttling, a
+spoofed retraction notice)\
 Book II --- Target (distribution suppression, volatility modeling)\
 Book III --- Catalyst (forces moral confrontation)
 
@@ -196,7 +214,8 @@ escalation - Internal task force fracture
 MIDPOINT - Proof unauthorized stabilization occurred pre-human input
 
 ACT III - Infrastructure cascade event - Confrontation with Vale -
-Polaris seeded as deeper system
+Project Polaris publicly disclosed and Naomi's investigation published
+(corrected 2026-08-13; previously "Polaris seeded as deeper system")
 
 ============================================
 
@@ -209,7 +228,13 @@ Malcolm ↔ Adrian Start: Intellectual tension Middle: Ideological
 opposition End: Strategic defeat without destruction
 
 Malcolm ↔ Anya Start: Philosophical adversaries Middle: Mutual
-recognition End: Conditional alliance
+recognition End: Conditional alliance *(Flagged 2026-08-13: "Anya" does
+not appear anywhere in book_reimagined/ — not in the reimagined Book I
+manuscript, and not named in current Book II planning either. Status
+unclear: either an early-brainstorm character never carried forward, or
+an unnamed future-book placeholder. Not deleted since that's a
+content decision, not a sync fix — resolve or remove next time Book II/III
+casting is actually decided.)*
 
 ============================================
 

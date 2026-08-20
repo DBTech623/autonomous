@@ -134,7 +134,7 @@ Malcolm pointed to the archive card. "Was the deployed configuration the one I a
 
 Cate did not touch the telephone. "Your access is suspended pending review."
 
-"I asked about the configuration. Not my status."
+"That wasn't the question."
 
 "It is the action I am required to take."
 

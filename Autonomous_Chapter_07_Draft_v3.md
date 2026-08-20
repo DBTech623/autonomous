@@ -156,7 +156,7 @@ Malcolm stepped back from the counter.
 
 "Which is why it has cameras."
 
-"You contacted a reporter. You can survive being seen in public."
+"You contacted a reporter. Being seen in public isn't the risk here."
 
 "One o'clock."
 

@@ -118,7 +118,9 @@ Shah stepped back half a pace. Torres straightened.
 
 Adrian shook Torres's hand, greeted Leila by title, and turned to Malcolm last, the way a man saves the call he actually wants to take.
 
-"Carter. Constraint-layer architecture." Not a question.
+"Dr. Carter. Constraint-layer architecture." Not a question.
+
+Nobody had called him that in four years. Malcolm noted, distantly, that Adrian would have had to go looking for it.
 
 "That was a long time ago."
 
