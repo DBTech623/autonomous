@@ -30,7 +30,7 @@ Then the naval-support field updated. Eleven seconds before the port had logged 
 
 He set his hand flat on the desk and read it again.
 
-Around him the telemetry floor ran at the volume of a place built to make panic feel unprofessional — cooled air through the vents, new carpet over old concrete, forty analysts turning several thousand small problems into a quiet competition for which one would become large. Malcolm had learned the sound of the floor the way sailors learn an engine.
+Around him the telemetry floor ran at the volume of a place built to make panic feel unprofessional: cooled air through the vents, new carpet over old concrete, forty analysts turning several thousand small problems into a quiet competition for which one would become large. Malcolm had learned the sound of the floor the way sailors learn an engine.
 
 He could hear when it changed key.
 
@@ -230,7 +230,7 @@ He read the sentence once, then drew a line beneath *before*.
 
 "Stop calling that organic."
 
-Naomi Kincaid said it from the doorway, and everyone in the metrics meeting had time to look guilty before she reached the table. Brown skin, dark hair already losing the fight it always lost by afternoon.
+Naomi Kincaid said it from the doorway, and everyone in the metrics meeting had time to look guilty before she reached the table, brown skin and dark hair already losing the fight it always lost by afternoon.
 
 Owen Lee, the audience editor, glanced at the whiteboard behind him. Somebody had written `ORGANIC` in blue marker and boxed it twice.
 
@@ -582,7 +582,7 @@ Malcolm keyed the exercise desk.
 
 "ES-14 is approved inject traffic," the controller said.
 
-"For an Estonian communications outage."
+"For an Estonian communications outage?"
 
 "Stand by."
 
@@ -768,7 +768,7 @@ He stood with one hand still on the handle. Her office was small enough that a s
 
 "Who leads it?"
 
-"Gabriel Torres. Mission assurance."
+"Gabriel Torres. Mission Assurance."
 
 Malcolm moved the binders from the chair to the floor so he'd have somewhere to sit. Beck watched him do it and offered no help.
 

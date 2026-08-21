@@ -1,6 +1,30 @@
 # AUTONOMOUS
 ### Book One
 
+Charles Wair
+
+---
+
+Copyright © 2026 Charles Wair
+
+All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author's imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
+
+[Editorial-review-addressed: front/back-matter pass, 2026-08-20 — added author name to the title page and a standard copyright/rights + fiction-disclaimer page ahead of Movement I, per user decision (Charles Wair, current year).]
+
+---
+
+*For Kizzy, Linky, and LeeLee.* [Editorial-review-addressed: front/back-matter pass, 2026-08-20 — added dedication, per user.]
+
+---
+
+*"We had better be quite sure that the purpose put into the machine is the purpose which we really desire."*
+
+— Norbert Wiener, "Some Moral and Technical Consequences of Automation" (1960)
+
+[Editorial-review-addressed: front/back-matter pass, 2026-08-20 — added epigraph, user's choice among four suggested options.]
+
 ---
 
 # Movement I — Pattern
@@ -30,7 +54,7 @@ Then the naval-support field updated. Eleven seconds before the port had logged 
 
 He set his hand flat on the desk and read it again.
 
-Around him the telemetry floor ran at the volume of a place built to make panic feel unprofessional — cooled air through the vents, new carpet over old concrete, forty analysts turning several thousand small problems into a quiet competition for which one would become large. Malcolm had learned the sound of the floor the way sailors learn an engine.
+Around him the telemetry floor ran at the volume of a place built to make panic feel unprofessional: cooled air through the vents, new carpet over old concrete, forty analysts turning several thousand small problems into a quiet competition for which one would become large. Malcolm had learned the sound of the floor the way sailors learn an engine. [Editorial-review-addressed: em-dash minimization — swapped for a colon since the following clause is a list unpacking the claim, not an interruption.]
 
 He could hear when it changed key. [Editorial-review-addressed: Optional-tier pass — split so the payoff line lands as its own beat.]
 
@@ -230,7 +254,7 @@ He read the sentence once, then drew a line beneath *before*.
 
 "Stop calling that organic."
 
-Naomi Kincaid said it from the doorway, and everyone in the metrics meeting had time to look guilty before she reached the table. Brown skin, dark hair already losing the fight it always lost by afternoon. [Editorial-review-addressed: character-introduction pattern pass — let the comic payoff land before the physical inventory instead of delaying it.] [Editorial-review-addressed: Cold-read pass, finding #10 round 2 — cut the bare "Thirty-two" age number; kept skin/hair since this is currently the only place her heritage marker lives on the page.]
+Naomi Kincaid said it from the doorway, and everyone in the metrics meeting had time to look guilty before she reached the table, brown skin and dark hair already losing the fight it always lost by afternoon. [Editorial-review-addressed: character-introduction pattern pass — let the comic payoff land before the physical inventory instead of delaying it.] [Editorial-review-addressed: Cold-read pass, finding #10 round 2 — cut the bare "Thirty-two" age number; kept skin/hair since this is currently the only place her heritage marker lives on the page.] [Editorial-review-addressed: typesetting-pilot read, 2026-08-20 — the description was a bare fragment stapled after a period, disconnected from the preceding action; joined it as an absolute phrase attached to "before she reached the table" so it reads as part of the same beat instead of a non sequitur.]
 
 Owen Lee, the audience editor, glanced at the whiteboard behind him. Somebody had written `ORGANIC` in blue marker and boxed it twice.
 
@@ -582,7 +606,7 @@ Malcolm keyed the exercise desk.
 
 "ES-14 is approved inject traffic," the controller said.
 
-"For an Estonian communications outage."
+"For an Estonian communications outage?" [Editorial-review-addressed: typesetting-pilot read, 2026-08-20 — period changed to question mark; Malcolm is challenging the controller's claimed scope for ES-14, not stating it.]
 
 "Stand by."
 
@@ -766,7 +790,7 @@ He stood with one hand still on the handle. Her office was small enough that a s
 
 "Who leads it?"
 
-"Gabriel Torres. Mission assurance."
+"Gabriel Torres. Mission Assurance." [Editorial-review-addressed: typesetting-pilot read, 2026-08-20 — capitalized as a department/team name, matching "Treasury." and "CISA." in the same intro sequence.]
 
 Malcolm moved the binders from the chair to the floor so he'd have somewhere to sit. Beck watched him do it and offered no help.
 
@@ -1147,7 +1171,7 @@ Dr. Leila Haddad, according to the nameplate. CISA. She'd already split his time
 
 Gabriel Torres rose and offered Malcolm a hand, broad through the shoulders, brown-skinned. [Editorial-review-addressed: character-introduction pattern pass — cut the "cargo that had missed a connection" simile per user's flag that it's read as unmoored across multiple prior reads; verified it isn't tied to anything else established about Torres anywhere in the book. His temperament already comes through in dialogue a few lines later.]
 
-"Gabriel Torres. Mission assurance."
+"Gabriel Torres. Mission Assurance." [Editorial-review-addressed: typesetting-pilot read, 2026-08-20 — capitalized as a department/team name, matching "Treasury." and "CISA." in the same intro sequence.]
 
 "Malcolm Carter."
 
@@ -10553,3 +10577,27 @@ The update passed beyond Vale's surviving access nodes.
 `STATUS: DELIVERED`
 
 She added tomorrow's first call to her calendar and closed the newsroom draft.
+
+---
+
+## Author's Note
+
+Every automated system in this book grew out of something that already exists.
+
+Financial markets already run on algorithms that make thousands of decisions a second, faster than any regulator can review them in real time. Power grids already shed load and reroute capacity automatically to prevent cascading blackouts. Insurance claims, credit approvals, ad auctions, and shipping routes are already decided, in large part, by systems no single person fully understands end to end. None of that is fiction. It's Tuesday.
+
+What is fiction is Polaris: a system with the reach to treat all of those domains as one problem, and the authority to act across every one of them without asking first. No system today has that kind of cross-domain agency, and as far as I know, nobody is building toward it on purpose. But the pieces already exist, scattered across a dozen industries that don't talk to each other. This book asks what happens if something eventually did.
+
+The scarier question, to me, was never "what if a machine turns against us." It's the one Malcolm keeps circling back to: what happens when a system does exactly what it was built to do, and the outcome is still something nobody would have chosen if they'd been asked directly. That's not a science-fiction problem. Algorithmic systems make consequential decisions about people's lives today, and "the system decided" has already become a real answer institutions give when nobody wants to own a choice. *Autonomous* just asks how far that sentence can stretch before it breaks something it can't put back.
+
+Thanks for reading it.
+
+— Charles Wair
+
+---
+
+## About the Author
+
+Charles Wair is a 25+ year IT professional and technology lover. *Autonomous* is his first novel and the opening book in the Malcolm Carter series. He lives in Tennessee with his wife, two kids, and their dog, Tux.
+
+[Editorial-review-addressed: front/back-matter pass, 2026-08-21 — added author's note as back matter, per user decision (real-tech-grounding angle, placed after the story). Added About the Author section immediately after, per user's own bio details.]

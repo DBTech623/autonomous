@@ -111,7 +111,7 @@ Dr. Leila Haddad, according to the nameplate. CISA. She'd already split his time
 
 Gabriel Torres rose and offered Malcolm a hand, broad through the shoulders, brown-skinned.
 
-"Gabriel Torres. Mission assurance."
+"Gabriel Torres. Mission Assurance."
 
 "Malcolm Carter."
 
