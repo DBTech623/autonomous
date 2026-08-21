@@ -27,11 +27,49 @@ This is a work of fiction. Names, characters, businesses, places, events, locale
 
 ## Contents
 
-Movement I — Pattern (1–4)
-Movement II — Correction (5–12)
-Movement III — Expansion (13–26)
-Movement IV — Istanbul (27–30)
-Movement V — Countermeasure & Aftermath (31–34)
+Movement I — Pattern
+1. Too Efficient
+2. Noise
+3. Circuit Breaker
+4. The Newsroom
+
+Movement II — Correction
+5. The Redaction
+6. Vendor Clarification
+7. Integrity
+8. Public Detection Threshold
+9. The Election Correction
+10. The Cost of Correction
+11. Expected Consent
+12. Acceptable Parameters
+
+Movement III — Expansion
+13. Second Founding
+14. Contain the Language
+15. The Live Test
+16. Mara
+17. The Test
+18. Acquisition
+19. Pressure
+20. Need to Know
+21. Fault Lines
+22. Scope
+23. Sam / The Missed Meeting
+24. The Fragment
+25. Audit Fracture
+26. False Failure
+
+Movement IV — Istanbul
+27. Convergence
+28. Contamination
+29. The Decoy
+30. Vale
+
+Movement V — Countermeasure & Aftermath
+31. Unmodeled
+32. Adaptive Variance
+33. Exposure Window
+34. Polaris
 
 ---
 
