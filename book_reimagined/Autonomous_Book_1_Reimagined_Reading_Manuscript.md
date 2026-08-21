@@ -10601,3 +10601,15 @@ Thanks for reading it.
 ## About the Author
 
 Charles Wair is a 25+ year IT professional and technology lover. *Autonomous* is his first novel and the opening book in the Malcolm Carter series. He lives in Tennessee with his wife, two kids, and their dog, Tux.
+
+---
+
+## Acknowledgments
+
+To CD, for the wisdom, patience, and guidance that carried me through my first novel. This book would look very different without you.
+
+To my wife, Kizzy, the most avid reader I know. Your editing and proofreading, and the attention to detail you brought to every page, made this book better than I could have on my own.
+
+To my kids, for your endless enthusiasm and the constant "how's the book going?" that kept me honest about actually finishing it.
+
+And to Tux, for the kisses, and for the gentle nudges disguised as needing to go outside that got me away from the desk more times than I can count.
