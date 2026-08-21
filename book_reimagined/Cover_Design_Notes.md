@@ -32,7 +32,7 @@ SUBJECT: M. CARTER
 ROLE: NSA ANALYST / FORMER AI ARCHITECT
 ```
 
-Verified against manuscript: Malcolm works "an NSA telemetry desk"; his supervisor Beck is established as NSA. "AI architect" is marketing shorthand — the manuscript itself never uses "AI"/"artificial intelligence" anywhere, deliberately preferring "system"/"objective layer" (a considered authorial choice, not an oversight), so this term is cover-copy-only and should not be backported into the prose.
+Verified against manuscript and against author intent (checked 2026-08-21 during a full back-cover-vs-front-matter consistency pass): Malcolm's actual timeline is OSSI (6 years) → Moldova incident → demoted and reassigned to NSA (4 years, up through the start of the book) → temporarily reassigned back to OSSI for the audit that becomes the book's plot. "I work for OSSI" (Ch11 dialogue) is accurate for that point in the story; it doesn't contradict "NSA analyst" on the cover, since the cover/blurb describes his Ch1 introduction, which happens while he's still at his NSA post, before the OSSI reassignment kicks off. The badge-friction/escort-requirement detail in the OSSI-building scene ("the badge readers used to accept his name on the first try") supports the gap in his OSSI tenure rather than contradicting it. "AI architect" is marketing shorthand — the manuscript itself never uses "AI"/"artificial intelligence" anywhere, deliberately preferring "system"/"objective layer" (a considered authorial choice, not an oversight), so this term is cover-copy-only and should not be backported into the prose.
 
 ### 4. New headline (replaces "WHO DEFINES INSTABILITY?")
 
