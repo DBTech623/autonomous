@@ -27,6 +27,20 @@ This is a work of fiction. Names, characters, businesses, places, events, locale
 
 ---
 
+`[EBOOK EDITION ONLY — omit from print typesetting]`
+
+## Contents
+
+Movement I — Pattern (1–4)
+Movement II — Correction (5–12)
+Movement III — Expansion (13–26)
+Movement IV — Istanbul (27–30)
+Movement V — Countermeasure & Aftermath (31–34)
+
+[Editorial-review-addressed: front/back-matter pass, 2026-08-21 — added a minimal, Movement-level table of contents, format-flagged as ebook-only per user decision (print thrillers conventionally omit a TOC; ebook platforms expect one for navigation).]
+
+---
+
 # Movement I — Pattern
 
 
