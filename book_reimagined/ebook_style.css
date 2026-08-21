@@ -1,0 +1,81 @@
+/* AUTONOMOUS — ebook stylesheet
+   Implements the three-tier "Controlled Variance" typography system from
+   Autonomous_Interior_Design_Typesetting_Report.docx, adapted for reflowable
+   EPUB per that report's own Section 10 (Ebook Adaptation) guidance:
+   no fixed page geometry, no forced page numbers/running heads/recto starts.
+*/
+
+body {
+  font-family: Georgia, "Bitstream Charter", Charter, "Palatino Linotype", serif;
+  line-height: 1.4;
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+p {
+  margin: 0;
+  text-indent: 1.2em;
+}
+
+/* No indent on the first paragraph after a heading or scene break */
+h1 + p, h2 + p, hr + p {
+  text-indent: 0;
+}
+
+h1, h2 {
+  font-family: "Inter", "Segoe UI", -apple-system, Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  page-break-before: always;
+}
+
+/* Movement heading */
+h1 {
+  font-size: 1.1em;
+  font-weight: 300;
+  letter-spacing: 0.12em;
+  margin: 3em 0 0.3em 0;
+}
+
+/* Chapter heading */
+h2 {
+  font-size: 1.4em;
+  margin: 0.5em 0 1.5em 0;
+}
+
+/* Scene break: three-node hairline mark, replacing the manuscript's "* * *" */
+hr {
+  border: none;
+  text-align: center;
+  margin: 1.6em 0;
+}
+hr::before {
+  content: "\2013 \25CF \2013";  /* – ● – : hairline / filled center node / hairline */
+  font-family: "Inter", sans-serif;
+  font-size: 0.8em;
+  letter-spacing: 0.3em;
+  color: #666;
+}
+
+/* System / artifact text: diagnostic blocks, message excerpts, code-style records.
+   These are exactly the backtick-code-span lines in the source manuscript. */
+code {
+  font-family: "Go Mono", "IBM Plex Mono", "Source Code Pro", "Courier New", monospace;
+  font-size: 0.92em;
+  font-style: normal;
+  color: #333;
+  white-space: pre-wrap;
+  page-break-inside: avoid;
+}
+
+p:has(> code:only-child) {
+  text-indent: 0;
+  margin-left: 0.15in;
+  text-align: left;
+}
+
+/* Author's Note / About the Author / Acknowledgments back-matter headings
+   use the same h2 treatment as chapters automatically via the heading rule above. */
